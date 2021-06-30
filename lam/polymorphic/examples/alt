@@ -1,0 +1,3 @@
+match (iota1(u)) @ unit with
+  lambda unit . lambda unit . 'z
+| lambda unit . 'z
